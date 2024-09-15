@@ -141,7 +141,7 @@ main_instalacao() {
 
     instalar_pacotes mpv simplescreenrecorder keepassxc thunderbird thunderbird-l10n-pt-br adb fastboot  \
     fonts-noto-color-emoji ttf-mscorefonts-installer exa bat gufw tlp aspell-pt-br zsh lollypop \
-    git curl telegram-desktop fonts-noto fonts-dejavu
+    git curl telegram-desktop fonts-noto fonts-dejavu unzip unrar-free rar liblz4-tool
 
     # Ativar suporte ao Flatpak e instalar pacotes Flatpak
     instalar_pacotes flatpak
